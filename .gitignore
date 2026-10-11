@@ -1,0 +1,15 @@
+# Secrets and local config
+backup.env
+*.env
+!*.env.sample
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
